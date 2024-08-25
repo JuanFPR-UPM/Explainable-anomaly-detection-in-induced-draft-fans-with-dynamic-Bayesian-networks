@@ -1,0 +1,395 @@
+{
+ "discrete_features": {
+  "multi_group": {
+   "All groups": {
+    "color": "#db0000"
+   },
+   "Motors and Mechanical": {
+    "color": "#076c07"
+   },
+   "Motors only": {
+    "color": "#dbb500"
+   },
+   "Mechanical only": {
+    "color": "#70ca70"
+   },
+   "Process": {
+    "color": "#06918a"
+   }
+  },
+  "single_group": {
+   "Motors": {
+    "color": "#db0000"
+   },
+   "Mechanical": {
+    "color": "#076c07"
+   },
+   "Process": {
+    "color": "#dbb500"
+   }
+  }
+ },
+ "nodes": {
+  "CO sampling_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "CO2 sampling_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Current_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Displac. %_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Displac. rel._t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Gas flow entry_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Gas pressure diff._t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Gas pressure entry_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "H2 sampling_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Measured speed_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "All groups"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical",
+     "Process"
+    ]
+   }
+  },
+  "O2 sampling_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Oil fan coupled_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Mechanical only"
+    ],
+    "single_group": [
+     "Mechanical"
+    ]
+   }
+  },
+  "Oil fan free_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Mechanical only"
+    ],
+    "single_group": [
+     "Mechanical"
+    ]
+   }
+  },
+  "Oil level_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Oil motor coupled_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Oil motor free_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Oil pressure_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Power_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "All groups"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical",
+     "Process"
+    ]
+   }
+  },
+  "Ref. speed_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": []
+   }
+  },
+  "Tº A stator_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Tº B stator_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Tº C stator_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Tº D stator_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Tº E stator_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Tº F stator_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors only"
+    ],
+    "single_group": [
+     "Motors"
+    ]
+   }
+  },
+  "Tº fan free_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Mechanical only"
+    ],
+    "single_group": [
+     "Mechanical"
+    ]
+   }
+  },
+  "Tº gas entry_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Tº gas exit_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Process"
+    ],
+    "single_group": [
+     "Process"
+    ]
+   }
+  },
+  "Tº motor coupled_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Tº motor free_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Vibr. fan coupled_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Mechanical only"
+    ],
+    "single_group": [
+     "Mechanical"
+    ]
+   }
+  },
+  "Vibr. fan free_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Mechanical only"
+    ],
+    "single_group": [
+     "Mechanical"
+    ]
+   }
+  },
+  "Vibr. motor coupled_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Vibr. motor free (Ax)_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  },
+  "Vibr. motor free (Rad)_t_5": {
+   "discrete_features": {
+    "multi_group": [
+     "Motors and Mechanical"
+    ],
+    "single_group": [
+     "Motors",
+     "Mechanical"
+    ]
+   }
+  }
+ }
+}

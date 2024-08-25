@@ -1,0 +1,60 @@
+source,destination
+Current_t_5,Power_t_5
+Vibr. motor coupled_t_5,Vibr. motor free (Rad)_t_5
+Tº motor coupled_t_5,Tº motor free_t_5
+Vibr. motor free (Rad)_t_5,Vibr. motor free (Ax)_t_5
+Power_t_5,Vibr. motor coupled_t_5
+Power_t_5,Measured speed_t_5
+Tº F stator_t_5,Tº C stator_t_5
+Power_t_5,Vibr. fan coupled_t_5
+Measured speed_t_5,Ref. speed_t_5
+Tº B stator_t_5,Tº F stator_t_5
+Tº F stator_t_5,Tº A stator_t_5
+Tº B stator_t_5,Tº D stator_t_5
+Vibr. motor free (Ax)_t_5,Vibr. fan free_t_5
+Tº C stator_t_5,Tº E stator_t_5
+Oil fan free_t_5,Oil fan coupled_t_5
+Tº gas entry_t_5,O2 sampling_t_5
+CO sampling_t_5,Displac. rel._t_5
+O2 sampling_t_5,CO sampling_t_5
+O2 sampling_t_5,CO2 sampling_t_5
+Measured speed_t_5,Gas pressure entry_t_5
+Tº gas exit_t_5,Tº gas entry_t_5
+Tº E stator_t_5,Tº motor coupled_t_5
+Tº motor coupled_t_5,Tº fan free_t_5
+Oil fan coupled_t_5,Oil motor coupled_t_5
+Vibr. fan free_t_5,Tº gas entry_t_5
+O2 sampling_t_5,H2 sampling_t_5
+Measured speed_t_5,Tº motor free_t_5
+Tº gas exit_t_5,Displac. %_t_5
+Oil fan coupled_t_5,Oil pressure_t_5
+Current_t_5,Vibr. motor coupled_t_5
+Displac. %_t_5,Current_t_5
+Oil pressure_t_5,Oil motor free_t_5
+Vibr. motor coupled_t_5,Vibr. motor free (Ax)_t_5
+Tº fan free_t_5,Oil pressure_t_5
+Tº gas exit_t_5,CO2 sampling_t_5
+Tº D stator_t_5,Tº F stator_t_5
+Measured speed_t_5,Tº motor coupled_t_5
+Tº fan free_t_5,Oil fan free_t_5
+Tº motor free_t_5,Tº fan free_t_5
+CO2 sampling_t_5,Displac. rel._t_5
+Tº B stator_t_5,Tº C stator_t_5
+Oil level_t_5,Oil pressure_t_5
+Current_t_5,Ref. speed_t_5
+Tº F stator_t_5,Tº E stator_t_5
+Displac. %_t_5,CO sampling_t_5
+Tº D stator_t_5,Tº A stator_t_5
+Measured speed_t_5,Gas pressure diff._t_5
+Displac. %_t_5,Gas pressure entry_t_5
+Tº C stator_t_5,Tº A stator_t_5
+Vibr. motor coupled_t_5,Vibr. fan coupled_t_5
+Tº D stator_t_5,Tº C stator_t_5
+Oil level_t_5,Oil motor free_t_5
+Tº B stator_t_5,Tº A stator_t_5
+Tº A stator_t_5,Tº E stator_t_5
+Oil fan free_t_5,Oil motor coupled_t_5
+Measured speed_t_5,Vibr. fan coupled_t_5
+Oil fan coupled_t_5,Oil motor free_t_5
+Tº B stator_t_5,Tº E stator_t_5
+Gas flow entry_t_5,

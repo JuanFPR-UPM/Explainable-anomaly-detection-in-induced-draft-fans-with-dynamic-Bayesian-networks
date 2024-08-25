@@ -1,0 +1,540 @@
+source,destination
+Current_t_0,Power_t_0
+Vibr. motor coupled_t_0,Vibr. motor free (Rad)_t_0
+Tº motor coupled_t_0,Tº motor free_t_0
+Vibr. motor free (Rad)_t_0,Vibr. motor free (Ax)_t_0
+Power_t_0,Vibr. motor coupled_t_0
+Power_t_0,Measured speed_t_0
+Tº F stator_t_0,Tº C stator_t_0
+Power_t_0,Vibr. fan coupled_t_0
+Measured speed_t_0,Ref. speed_t_0
+Tº B stator_t_0,Tº F stator_t_0
+Tº F stator_t_0,Tº A stator_t_0
+Tº B stator_t_0,Tº D stator_t_0
+Vibr. motor free (Ax)_t_0,Vibr. fan free_t_0
+Tº C stator_t_0,Tº E stator_t_0
+Oil fan free_t_0,Oil fan coupled_t_0
+Tº gas entry_t_0,O2 sampling_t_0
+CO sampling_t_0,Displac. rel._t_0
+O2 sampling_t_0,CO sampling_t_0
+O2 sampling_t_0,CO2 sampling_t_0
+Measured speed_t_0,Gas pressure entry_t_0
+Tº gas exit_t_0,Tº gas entry_t_0
+Tº E stator_t_0,Tº motor coupled_t_0
+Tº motor coupled_t_0,Tº fan free_t_0
+Oil fan coupled_t_0,Oil motor coupled_t_0
+Vibr. fan free_t_0,Tº gas entry_t_0
+O2 sampling_t_0,H2 sampling_t_0
+Measured speed_t_0,Tº motor free_t_0
+Tº gas exit_t_0,Displac. %_t_0
+Oil fan coupled_t_0,Oil pressure_t_0
+Current_t_0,Vibr. motor coupled_t_0
+Displac. %_t_0,Current_t_0
+Oil pressure_t_0,Oil motor free_t_0
+Vibr. motor coupled_t_0,Vibr. motor free (Ax)_t_0
+Tº fan free_t_0,Oil pressure_t_0
+Tº gas exit_t_0,CO2 sampling_t_0
+Tº D stator_t_0,Tº F stator_t_0
+Measured speed_t_0,Tº motor coupled_t_0
+Tº fan free_t_0,Oil fan free_t_0
+Tº motor free_t_0,Tº fan free_t_0
+CO2 sampling_t_0,Displac. rel._t_0
+Tº B stator_t_0,Tº C stator_t_0
+Oil level_t_0,Oil pressure_t_0
+Current_t_0,Ref. speed_t_0
+Tº F stator_t_0,Tº E stator_t_0
+Displac. %_t_0,CO sampling_t_0
+Tº D stator_t_0,Tº A stator_t_0
+Measured speed_t_0,Gas pressure diff._t_0
+Displac. %_t_0,Gas pressure entry_t_0
+Tº C stator_t_0,Tº A stator_t_0
+Vibr. motor coupled_t_0,Vibr. fan coupled_t_0
+Tº D stator_t_0,Tº C stator_t_0
+Oil level_t_0,Oil motor free_t_0
+Tº B stator_t_0,Tº A stator_t_0
+Tº A stator_t_0,Tº E stator_t_0
+Oil fan free_t_0,Oil motor coupled_t_0
+Measured speed_t_0,Vibr. fan coupled_t_0
+Oil fan coupled_t_0,Oil motor free_t_0
+Tº B stator_t_0,Tº E stator_t_0
+Current_t_1,Power_t_1
+Vibr. motor coupled_t_1,Vibr. motor free (Rad)_t_1
+Tº motor coupled_t_1,Tº motor free_t_1
+Vibr. motor free (Rad)_t_1,Vibr. motor free (Ax)_t_1
+Power_t_1,Vibr. motor coupled_t_1
+Power_t_1,Measured speed_t_1
+Tº F stator_t_1,Tº C stator_t_1
+Power_t_1,Vibr. fan coupled_t_1
+Measured speed_t_1,Ref. speed_t_1
+Tº B stator_t_1,Tº F stator_t_1
+Tº F stator_t_1,Tº A stator_t_1
+Tº B stator_t_1,Tº D stator_t_1
+Vibr. motor free (Ax)_t_1,Vibr. fan free_t_1
+Tº C stator_t_1,Tº E stator_t_1
+Oil fan free_t_1,Oil fan coupled_t_1
+Tº gas entry_t_1,O2 sampling_t_1
+CO sampling_t_1,Displac. rel._t_1
+O2 sampling_t_1,CO sampling_t_1
+O2 sampling_t_1,CO2 sampling_t_1
+Measured speed_t_1,Gas pressure entry_t_1
+Tº gas exit_t_1,Tº gas entry_t_1
+Tº E stator_t_1,Tº motor coupled_t_1
+Tº motor coupled_t_1,Tº fan free_t_1
+Oil fan coupled_t_1,Oil motor coupled_t_1
+Vibr. fan free_t_1,Tº gas entry_t_1
+O2 sampling_t_1,H2 sampling_t_1
+Measured speed_t_1,Tº motor free_t_1
+Tº gas exit_t_1,Displac. %_t_1
+Oil fan coupled_t_1,Oil pressure_t_1
+Current_t_1,Vibr. motor coupled_t_1
+Displac. %_t_1,Current_t_1
+Oil pressure_t_1,Oil motor free_t_1
+Vibr. motor coupled_t_1,Vibr. motor free (Ax)_t_1
+Tº fan free_t_1,Oil pressure_t_1
+Tº gas exit_t_1,CO2 sampling_t_1
+Tº D stator_t_1,Tº F stator_t_1
+Measured speed_t_1,Tº motor coupled_t_1
+Tº fan free_t_1,Oil fan free_t_1
+Tº motor free_t_1,Tº fan free_t_1
+CO2 sampling_t_1,Displac. rel._t_1
+Tº B stator_t_1,Tº C stator_t_1
+Oil level_t_1,Oil pressure_t_1
+Current_t_1,Ref. speed_t_1
+Tº F stator_t_1,Tº E stator_t_1
+Displac. %_t_1,CO sampling_t_1
+Tº D stator_t_1,Tº A stator_t_1
+Measured speed_t_1,Gas pressure diff._t_1
+Displac. %_t_1,Gas pressure entry_t_1
+Tº C stator_t_1,Tº A stator_t_1
+Vibr. motor coupled_t_1,Vibr. fan coupled_t_1
+Tº D stator_t_1,Tº C stator_t_1
+Oil level_t_1,Oil motor free_t_1
+Tº B stator_t_1,Tº A stator_t_1
+Tº A stator_t_1,Tº E stator_t_1
+Oil fan free_t_1,Oil motor coupled_t_1
+Measured speed_t_1,Vibr. fan coupled_t_1
+Oil fan coupled_t_1,Oil motor free_t_1
+Tº B stator_t_1,Tº E stator_t_1
+Current_t_2,Power_t_2
+Vibr. motor coupled_t_2,Vibr. motor free (Rad)_t_2
+Tº motor coupled_t_2,Tº motor free_t_2
+Vibr. motor free (Rad)_t_2,Vibr. motor free (Ax)_t_2
+Power_t_2,Vibr. motor coupled_t_2
+Power_t_2,Measured speed_t_2
+Tº F stator_t_2,Tº C stator_t_2
+Power_t_2,Vibr. fan coupled_t_2
+Measured speed_t_2,Ref. speed_t_2
+Tº B stator_t_2,Tº F stator_t_2
+Tº F stator_t_2,Tº A stator_t_2
+Tº B stator_t_2,Tº D stator_t_2
+Vibr. motor free (Ax)_t_2,Vibr. fan free_t_2
+Tº C stator_t_2,Tº E stator_t_2
+Oil fan free_t_2,Oil fan coupled_t_2
+Tº gas entry_t_2,O2 sampling_t_2
+CO sampling_t_2,Displac. rel._t_2
+O2 sampling_t_2,CO sampling_t_2
+O2 sampling_t_2,CO2 sampling_t_2
+Measured speed_t_2,Gas pressure entry_t_2
+Tº gas exit_t_2,Tº gas entry_t_2
+Tº E stator_t_2,Tº motor coupled_t_2
+Tº motor coupled_t_2,Tº fan free_t_2
+Oil fan coupled_t_2,Oil motor coupled_t_2
+Vibr. fan free_t_2,Tº gas entry_t_2
+O2 sampling_t_2,H2 sampling_t_2
+Measured speed_t_2,Tº motor free_t_2
+Tº gas exit_t_2,Displac. %_t_2
+Oil fan coupled_t_2,Oil pressure_t_2
+Current_t_2,Vibr. motor coupled_t_2
+Displac. %_t_2,Current_t_2
+Oil pressure_t_2,Oil motor free_t_2
+Vibr. motor coupled_t_2,Vibr. motor free (Ax)_t_2
+Tº fan free_t_2,Oil pressure_t_2
+Tº gas exit_t_2,CO2 sampling_t_2
+Tº D stator_t_2,Tº F stator_t_2
+Measured speed_t_2,Tº motor coupled_t_2
+Tº fan free_t_2,Oil fan free_t_2
+Tº motor free_t_2,Tº fan free_t_2
+CO2 sampling_t_2,Displac. rel._t_2
+Tº B stator_t_2,Tº C stator_t_2
+Oil level_t_2,Oil pressure_t_2
+Current_t_2,Ref. speed_t_2
+Tº F stator_t_2,Tº E stator_t_2
+Displac. %_t_2,CO sampling_t_2
+Tº D stator_t_2,Tº A stator_t_2
+Measured speed_t_2,Gas pressure diff._t_2
+Displac. %_t_2,Gas pressure entry_t_2
+Tº C stator_t_2,Tº A stator_t_2
+Vibr. motor coupled_t_2,Vibr. fan coupled_t_2
+Tº D stator_t_2,Tº C stator_t_2
+Oil level_t_2,Oil motor free_t_2
+Tº B stator_t_2,Tº A stator_t_2
+Tº A stator_t_2,Tº E stator_t_2
+Oil fan free_t_2,Oil motor coupled_t_2
+Measured speed_t_2,Vibr. fan coupled_t_2
+Oil fan coupled_t_2,Oil motor free_t_2
+Tº B stator_t_2,Tº E stator_t_2
+Current_t_3,Power_t_3
+Vibr. motor coupled_t_3,Vibr. motor free (Rad)_t_3
+Tº motor coupled_t_3,Tº motor free_t_3
+Vibr. motor free (Rad)_t_3,Vibr. motor free (Ax)_t_3
+Power_t_3,Vibr. motor coupled_t_3
+Power_t_3,Measured speed_t_3
+Tº F stator_t_3,Tº C stator_t_3
+Power_t_3,Vibr. fan coupled_t_3
+Measured speed_t_3,Ref. speed_t_3
+Tº B stator_t_3,Tº F stator_t_3
+Tº F stator_t_3,Tº A stator_t_3
+Tº B stator_t_3,Tº D stator_t_3
+Vibr. motor free (Ax)_t_3,Vibr. fan free_t_3
+Tº C stator_t_3,Tº E stator_t_3
+Oil fan free_t_3,Oil fan coupled_t_3
+Tº gas entry_t_3,O2 sampling_t_3
+CO sampling_t_3,Displac. rel._t_3
+O2 sampling_t_3,CO sampling_t_3
+O2 sampling_t_3,CO2 sampling_t_3
+Measured speed_t_3,Gas pressure entry_t_3
+Tº gas exit_t_3,Tº gas entry_t_3
+Tº E stator_t_3,Tº motor coupled_t_3
+Tº motor coupled_t_3,Tº fan free_t_3
+Oil fan coupled_t_3,Oil motor coupled_t_3
+Vibr. fan free_t_3,Tº gas entry_t_3
+O2 sampling_t_3,H2 sampling_t_3
+Measured speed_t_3,Tº motor free_t_3
+Tº gas exit_t_3,Displac. %_t_3
+Oil fan coupled_t_3,Oil pressure_t_3
+Current_t_3,Vibr. motor coupled_t_3
+Displac. %_t_3,Current_t_3
+Oil pressure_t_3,Oil motor free_t_3
+Vibr. motor coupled_t_3,Vibr. motor free (Ax)_t_3
+Tº fan free_t_3,Oil pressure_t_3
+Tº gas exit_t_3,CO2 sampling_t_3
+Tº D stator_t_3,Tº F stator_t_3
+Measured speed_t_3,Tº motor coupled_t_3
+Tº fan free_t_3,Oil fan free_t_3
+Tº motor free_t_3,Tº fan free_t_3
+CO2 sampling_t_3,Displac. rel._t_3
+Tº B stator_t_3,Tº C stator_t_3
+Oil level_t_3,Oil pressure_t_3
+Current_t_3,Ref. speed_t_3
+Tº F stator_t_3,Tº E stator_t_3
+Displac. %_t_3,CO sampling_t_3
+Tº D stator_t_3,Tº A stator_t_3
+Measured speed_t_3,Gas pressure diff._t_3
+Displac. %_t_3,Gas pressure entry_t_3
+Tº C stator_t_3,Tº A stator_t_3
+Vibr. motor coupled_t_3,Vibr. fan coupled_t_3
+Tº D stator_t_3,Tº C stator_t_3
+Oil level_t_3,Oil motor free_t_3
+Tº B stator_t_3,Tº A stator_t_3
+Tº A stator_t_3,Tº E stator_t_3
+Oil fan free_t_3,Oil motor coupled_t_3
+Measured speed_t_3,Vibr. fan coupled_t_3
+Oil fan coupled_t_3,Oil motor free_t_3
+Tº B stator_t_3,Tº E stator_t_3
+Current_t_4,Power_t_4
+Vibr. motor coupled_t_4,Vibr. motor free (Rad)_t_4
+Tº motor coupled_t_4,Tº motor free_t_4
+Vibr. motor free (Rad)_t_4,Vibr. motor free (Ax)_t_4
+Power_t_4,Vibr. motor coupled_t_4
+Power_t_4,Measured speed_t_4
+Tº F stator_t_4,Tº C stator_t_4
+Power_t_4,Vibr. fan coupled_t_4
+Measured speed_t_4,Ref. speed_t_4
+Tº B stator_t_4,Tº F stator_t_4
+Tº F stator_t_4,Tº A stator_t_4
+Tº B stator_t_4,Tº D stator_t_4
+Vibr. motor free (Ax)_t_4,Vibr. fan free_t_4
+Tº C stator_t_4,Tº E stator_t_4
+Oil fan free_t_4,Oil fan coupled_t_4
+Tº gas entry_t_4,O2 sampling_t_4
+CO sampling_t_4,Displac. rel._t_4
+O2 sampling_t_4,CO sampling_t_4
+O2 sampling_t_4,CO2 sampling_t_4
+Measured speed_t_4,Gas pressure entry_t_4
+Tº gas exit_t_4,Tº gas entry_t_4
+Tº E stator_t_4,Tº motor coupled_t_4
+Tº motor coupled_t_4,Tº fan free_t_4
+Oil fan coupled_t_4,Oil motor coupled_t_4
+Vibr. fan free_t_4,Tº gas entry_t_4
+O2 sampling_t_4,H2 sampling_t_4
+Measured speed_t_4,Tº motor free_t_4
+Tº gas exit_t_4,Displac. %_t_4
+Oil fan coupled_t_4,Oil pressure_t_4
+Current_t_4,Vibr. motor coupled_t_4
+Displac. %_t_4,Current_t_4
+Oil pressure_t_4,Oil motor free_t_4
+Vibr. motor coupled_t_4,Vibr. motor free (Ax)_t_4
+Tº fan free_t_4,Oil pressure_t_4
+Tº gas exit_t_4,CO2 sampling_t_4
+Tº D stator_t_4,Tº F stator_t_4
+Measured speed_t_4,Tº motor coupled_t_4
+Tº fan free_t_4,Oil fan free_t_4
+Tº motor free_t_4,Tº fan free_t_4
+CO2 sampling_t_4,Displac. rel._t_4
+Tº B stator_t_4,Tº C stator_t_4
+Oil level_t_4,Oil pressure_t_4
+Current_t_4,Ref. speed_t_4
+Tº F stator_t_4,Tº E stator_t_4
+Displac. %_t_4,CO sampling_t_4
+Tº D stator_t_4,Tº A stator_t_4
+Measured speed_t_4,Gas pressure diff._t_4
+Displac. %_t_4,Gas pressure entry_t_4
+Tº C stator_t_4,Tº A stator_t_4
+Vibr. motor coupled_t_4,Vibr. fan coupled_t_4
+Tº D stator_t_4,Tº C stator_t_4
+Oil level_t_4,Oil motor free_t_4
+Tº B stator_t_4,Tº A stator_t_4
+Tº A stator_t_4,Tº E stator_t_4
+Oil fan free_t_4,Oil motor coupled_t_4
+Measured speed_t_4,Vibr. fan coupled_t_4
+Oil fan coupled_t_4,Oil motor free_t_4
+Tº B stator_t_4,Tº E stator_t_4
+Current_t_5,Power_t_5
+Vibr. motor coupled_t_5,Vibr. motor free (Rad)_t_5
+Tº motor coupled_t_5,Tº motor free_t_5
+Vibr. motor free (Rad)_t_5,Vibr. motor free (Ax)_t_5
+Power_t_5,Vibr. motor coupled_t_5
+Power_t_5,Measured speed_t_5
+Tº F stator_t_5,Tº C stator_t_5
+Power_t_5,Vibr. fan coupled_t_5
+Measured speed_t_5,Ref. speed_t_5
+Tº B stator_t_5,Tº F stator_t_5
+Tº F stator_t_5,Tº A stator_t_5
+Tº B stator_t_5,Tº D stator_t_5
+Vibr. motor free (Ax)_t_5,Vibr. fan free_t_5
+Tº C stator_t_5,Tº E stator_t_5
+Oil fan free_t_5,Oil fan coupled_t_5
+Tº gas entry_t_5,O2 sampling_t_5
+CO sampling_t_5,Displac. rel._t_5
+O2 sampling_t_5,CO sampling_t_5
+O2 sampling_t_5,CO2 sampling_t_5
+Measured speed_t_5,Gas pressure entry_t_5
+Tº gas exit_t_5,Tº gas entry_t_5
+Tº E stator_t_5,Tº motor coupled_t_5
+Tº motor coupled_t_5,Tº fan free_t_5
+Oil fan coupled_t_5,Oil motor coupled_t_5
+Vibr. fan free_t_5,Tº gas entry_t_5
+O2 sampling_t_5,H2 sampling_t_5
+Measured speed_t_5,Tº motor free_t_5
+Tº gas exit_t_5,Displac. %_t_5
+Oil fan coupled_t_5,Oil pressure_t_5
+Current_t_5,Vibr. motor coupled_t_5
+Displac. %_t_5,Current_t_5
+Oil pressure_t_5,Oil motor free_t_5
+Vibr. motor coupled_t_5,Vibr. motor free (Ax)_t_5
+Tº fan free_t_5,Oil pressure_t_5
+Tº gas exit_t_5,CO2 sampling_t_5
+Tº D stator_t_5,Tº F stator_t_5
+Measured speed_t_5,Tº motor coupled_t_5
+Tº fan free_t_5,Oil fan free_t_5
+Tº motor free_t_5,Tº fan free_t_5
+CO2 sampling_t_5,Displac. rel._t_5
+Tº B stator_t_5,Tº C stator_t_5
+Oil level_t_5,Oil pressure_t_5
+Current_t_5,Ref. speed_t_5
+Tº F stator_t_5,Tº E stator_t_5
+Displac. %_t_5,CO sampling_t_5
+Tº D stator_t_5,Tº A stator_t_5
+Measured speed_t_5,Gas pressure diff._t_5
+Displac. %_t_5,Gas pressure entry_t_5
+Tº C stator_t_5,Tº A stator_t_5
+Vibr. motor coupled_t_5,Vibr. fan coupled_t_5
+Tº D stator_t_5,Tº C stator_t_5
+Oil level_t_5,Oil motor free_t_5
+Tº B stator_t_5,Tº A stator_t_5
+Tº A stator_t_5,Tº E stator_t_5
+Oil fan free_t_5,Oil motor coupled_t_5
+Measured speed_t_5,Vibr. fan coupled_t_5
+Oil fan coupled_t_5,Oil motor free_t_5
+Tº B stator_t_5,Tº E stator_t_5
+Oil fan coupled_t_4,Oil fan coupled_t_3
+Oil fan coupled_t_3,Oil fan coupled_t_2
+Oil fan coupled_t_5,Oil fan coupled_t_4
+Oil fan free_t_4,Oil fan free_t_3
+Oil fan free_t_5,Oil fan free_t_4
+Oil pressure_t_5,Oil pressure_t_4
+Oil pressure_t_4,Oil pressure_t_3
+Oil pressure_t_3,Oil pressure_t_2
+Oil pressure_t_2,Oil pressure_t_1
+Oil pressure_t_1,Oil pressure_t_0
+Oil fan free_t_3,Oil fan free_t_2
+Oil fan free_t_1,Oil fan free_t_0
+Oil fan free_t_2,Oil fan free_t_1
+Oil fan coupled_t_1,Oil fan coupled_t_0
+Oil fan coupled_t_2,Oil fan coupled_t_1
+Oil motor free_t_1,Oil motor free_t_0
+Oil motor free_t_4,Oil motor free_t_3
+Oil motor free_t_2,Oil motor free_t_1
+Oil motor free_t_3,Oil motor free_t_2
+Oil motor free_t_5,Oil motor free_t_4
+Oil motor coupled_t_2,Oil motor coupled_t_1
+Oil motor coupled_t_1,Oil motor coupled_t_0
+Oil motor coupled_t_3,Oil motor coupled_t_2
+Oil motor coupled_t_4,Oil motor coupled_t_3
+Oil motor coupled_t_5,Oil motor coupled_t_4
+Tº fan free_t_5,Tº fan free_t_4
+Tº fan free_t_4,Tº fan free_t_3
+Tº fan free_t_3,Tº fan free_t_2
+Tº fan free_t_2,Tº fan free_t_1
+Tº fan free_t_1,Tº fan free_t_0
+Tº D stator_t_5,Tº D stator_t_4
+Tº D stator_t_4,Tº D stator_t_3
+Tº D stator_t_1,Tº D stator_t_0
+Tº D stator_t_3,Tº D stator_t_2
+Tº D stator_t_2,Tº D stator_t_1
+Tº B stator_t_3,Tº B stator_t_2
+Tº B stator_t_2,Tº B stator_t_1
+Tº B stator_t_4,Tº B stator_t_3
+Tº B stator_t_5,Tº B stator_t_4
+Tº B stator_t_1,Tº B stator_t_0
+Tº F stator_t_3,Tº F stator_t_2
+Tº F stator_t_2,Tº F stator_t_1
+Tº F stator_t_4,Tº F stator_t_3
+Tº F stator_t_1,Tº F stator_t_0
+Tº F stator_t_5,Tº F stator_t_4
+Tº A stator_t_3,Tº A stator_t_2
+Tº C stator_t_3,Tº C stator_t_2
+Tº C stator_t_2,Tº C stator_t_1
+Tº A stator_t_2,Tº A stator_t_1
+Tº C stator_t_4,Tº C stator_t_3
+Tº C stator_t_1,Tº C stator_t_0
+Tº A stator_t_4,Tº A stator_t_3
+Tº C stator_t_5,Tº C stator_t_4
+Tº A stator_t_1,Tº A stator_t_0
+Tº motor free_t_1,Tº motor coupled_t_0
+Tº A stator_t_5,Tº A stator_t_4
+Tº E stator_t_3,Tº E stator_t_2
+Tº E stator_t_2,Tº E stator_t_1
+Tº E stator_t_4,Tº E stator_t_3
+Tº E stator_t_1,Tº E stator_t_0
+Tº E stator_t_5,Tº E stator_t_4
+Tº gas exit_t_5,O2 sampling_t_4
+Tº gas exit_t_4,O2 sampling_t_3
+Tº gas exit_t_3,O2 sampling_t_2
+Tº gas exit_t_1,O2 sampling_t_0
+Tº gas exit_t_2,O2 sampling_t_1
+Tº motor coupled_t_5,Tº motor free_t_4
+Tº motor free_t_5,Tº motor coupled_t_3
+Tº D stator_t_5,Tº D stator_t_3
+Tº D stator_t_4,Tº D stator_t_2
+Tº fan free_t_2,Tº fan free_t_0
+Tº D stator_t_3,Tº D stator_t_1
+Tº gas entry_t_5,Tº gas entry_t_4
+Tº gas entry_t_4,Tº gas entry_t_3
+Tº D stator_t_2,Tº D stator_t_0
+Tº gas entry_t_3,Tº gas entry_t_2
+Tº gas entry_t_1,Tº gas entry_t_0
+Tº gas entry_t_2,Tº gas entry_t_1
+Ref. speed_t_5,Tº motor free_t_3
+CO sampling_t_1,CO sampling_t_0
+CO sampling_t_5,CO sampling_t_4
+CO sampling_t_4,CO sampling_t_3
+CO sampling_t_2,CO sampling_t_1
+CO sampling_t_3,CO sampling_t_2
+Tº fan free_t_5,Tº fan free_t_3
+Tº fan free_t_3,Tº fan free_t_1
+Ref. speed_t_1,Measured speed_t_0
+Tº fan free_t_4,Tº fan free_t_2
+Ref. speed_t_4,Tº motor free_t_2
+Gas pressure entry_t_1,Gas pressure entry_t_0
+Vibr. fan free_t_1,Vibr. fan free_t_0
+Gas pressure entry_t_2,Gas pressure entry_t_1
+Vibr. motor free (Ax)_t_1,Vibr. motor free (Ax)_t_0
+Vibr. fan coupled_t_5,Vibr. fan coupled_t_4
+Vibr. fan free_t_2,Vibr. fan free_t_1
+Gas pressure entry_t_5,Gas pressure entry_t_4
+Vibr. fan coupled_t_1,Vibr. fan coupled_t_0
+Vibr. fan coupled_t_2,Vibr. fan coupled_t_1
+Gas pressure entry_t_3,Gas pressure entry_t_2
+Gas pressure entry_t_4,Gas pressure entry_t_3
+Tº B stator_t_3,Tº B stator_t_1
+Tº B stator_t_4,Tº B stator_t_2
+Oil fan free_t_5,Oil fan free_t_3
+Oil fan free_t_5,Oil fan free_t_2
+Oil fan free_t_5,Oil fan free_t_0
+Oil fan coupled_t_5,Oil fan coupled_t_2
+Oil fan free_t_3,Oil fan free_t_1
+Tº B stator_t_2,Tº B stator_t_0
+Displac. rel._t_1,O2 sampling_t_0
+Displac. rel._t_5,O2 sampling_t_4
+Displac. rel._t_2,O2 sampling_t_1
+Displac. rel._t_4,O2 sampling_t_3
+Oil fan coupled_t_5,Oil fan coupled_t_3
+Tº gas entry_t_5,H2 sampling_t_4
+Displac. rel._t_3,O2 sampling_t_2
+Tº gas entry_t_4,H2 sampling_t_3
+Tº gas entry_t_1,H2 sampling_t_0
+Tº gas entry_t_3,H2 sampling_t_2
+Tº gas entry_t_2,H2 sampling_t_1
+Tº B stator_t_5,Tº B stator_t_3
+Oil fan coupled_t_5,Oil fan coupled_t_0
+Oil fan coupled_t_3,Oil fan coupled_t_1
+Oil level_t_1,Oil level_t_0
+Oil level_t_2,Oil level_t_1
+Oil level_t_3,Oil level_t_2
+Oil level_t_5,Oil level_t_4
+Oil level_t_4,Oil level_t_3
+Displac. %_t_5,Displac. %_t_4
+Displac. %_t_1,Tº gas entry_t_0
+Displac. %_t_4,Displac. %_t_3
+Displac. %_t_5,Tº gas entry_t_4
+Displac. %_t_3,Tº gas entry_t_2
+Displac. %_t_4,Tº gas entry_t_3
+Displac. %_t_2,Tº gas entry_t_1
+Displac. %_t_1,Displac. %_t_0
+Displac. %_t_3,Displac. %_t_2
+Displac. %_t_2,Displac. %_t_1
+Tº F stator_t_3,Tº F stator_t_1
+Displac. %_t_5,CO sampling_t_4
+Tº F stator_t_2,Tº F stator_t_0
+Displac. %_t_2,CO sampling_t_1
+Oil pressure_t_5,Oil pressure_t_0
+Tº D stator_t_3,Tº D stator_t_0
+Tº D stator_t_4,Tº D stator_t_1
+Tº D stator_t_5,Tº D stator_t_2
+Oil level_t_2,Oil level_t_0
+Oil level_t_5,Oil level_t_3
+Oil level_t_3,Oil level_t_1
+Oil level_t_4,Oil level_t_2
+CO2 sampling_t_2,Displac. %_t_0
+H2 sampling_t_5,Displac. %_t_0
+Tº fan free_t_5,Tº fan free_t_2
+Gas pressure diff._t_2,CO sampling_t_1
+Gas pressure diff._t_5,Gas pressure diff._t_4
+Displac. rel._t_1,H2 sampling_t_0
+Gas pressure diff._t_1,Gas pressure diff._t_0
+Gas pressure diff._t_5,CO sampling_t_4
+Gas pressure diff._t_1,CO sampling_t_0
+Gas pressure diff._t_3,CO sampling_t_2
+Gas pressure diff._t_5,Measured speed_t_2
+Gas pressure diff._t_4,CO sampling_t_3
+Gas pressure diff._t_4,Gas pressure diff._t_3
+Gas pressure diff._t_3,Gas pressure diff._t_2
+Tº fan free_t_4,Tº fan free_t_1
+Gas pressure diff._t_2,Gas pressure diff._t_1
+Displac. rel._t_5,H2 sampling_t_4
+Tº fan free_t_3,Tº fan free_t_0
+Oil motor coupled_t_5,Oil motor coupled_t_0
+Oil fan free_t_2,Oil fan free_t_0
+Oil level_t_5,Oil level_t_0
+CO2 sampling_t_4,Displac. %_t_1
+Oil level_t_5,Oil level_t_1
+Displac. %_t_4,Gas pressure diff._t_1
+Oil motor free_t_5,Oil motor free_t_0
+Oil level_t_5,Oil level_t_2
+Displac. %_t_5,Gas pressure diff._t_2
+H2 sampling_t_4,H2 sampling_t_3
+H2 sampling_t_2,H2 sampling_t_1
+H2 sampling_t_3,H2 sampling_t_2
+CO sampling_t_5,Gas pressure diff._t_3
+Oil level_t_3,Oil level_t_0
+H2 sampling_t_1,H2 sampling_t_0
+H2 sampling_t_5,H2 sampling_t_4
+Oil level_t_4,Oil level_t_1
+Oil level_t_4,Oil level_t_0
+Gas flow entry_t_0,
+Gas flow entry_t_1,
+Gas flow entry_t_2,
+Gas flow entry_t_3,
+Gas flow entry_t_4,
+Gas flow entry_t_5,
